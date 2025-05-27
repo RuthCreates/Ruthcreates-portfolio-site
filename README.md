@@ -1,6 +1,6 @@
 # Ruth Creates – Personal Portfolio Website
 
-This is my personal website [ruthcreates.shop](https://ruthcreates.shop), built using WordPress and Elementor. It showcases my freelance services, project samples, and contact information.
+This is my personal website [ruthcreates.shop](https://ruthcreates.shop), built using WordPress. It showcases my freelance services, project samples, and contact information.
 
 ## Tools Used
 - WordPress
