@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ruth Creates – Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Ruth Creates</h1>
+    <p>Freelance Web Designer & Digital Creator</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I design clean, user-friendly websites using WordPress, Shopify, and Canva.</p>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="https://ruthcreates.shop" target="_blank">RuthCreates.shop</a></li>
+      <li><a href="https://lifeonthespectrum.cloud" target="_blank">Life on the Spectrum</a></li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: ruth@example.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Ruth Creates</p>
+  </footer>
+</body>
+</html>
